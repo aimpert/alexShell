@@ -1,0 +1,21 @@
+theme blue
+print hello there
+$var1=33
+theme red
+print $var1
+print this is var1 = $var1
+theme yellow
+ls
+pwd
+theme green
+$var55=55
+log
+log
+print hi hi
+ls
+ls -la
+theme white
+log
+print $var55 and $var1
+print $var5
+exit
