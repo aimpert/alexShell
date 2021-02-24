@@ -36,4 +36,4 @@ Additionally, the shell forks a child process to execute programs in ```/bin/```
 
 &nbsp;
 
-![C Shell Demo](cshelldemo.gif)
+![C Shell Demo](cshelldemo2.gif)
