@@ -33,3 +33,7 @@ Can store environment variables that utilize a linked list for dynamic allocatio
 **Non-built in commands**
 
 Additionally, the shell forks a child process to execute programs in ```/bin/``` if the command is not initially recognized.
+
+&nbsp;
+
+![C Shell Demo](cshelldemo.gif)
